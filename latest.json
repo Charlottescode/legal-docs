@@ -1,0 +1,12 @@
+{
+  "terms": {
+    "version": "v1_0",
+    "url": "https://charlottescode.github.io/legal-docs/terms_v1_0.html",
+    "latestUrl": "https://charlottescode.github.io/legal-docs/latest_terms.html"
+  },
+  "privacy": {
+    "version": "v1_0",
+    "url": "https://charlottescode.github.io/legal-docs/privacy_policy_v1_0.html",
+    "latestUrl": "https://charlottescode.github.io/legal-docs/latest_privacy_policy.html"
+  }
+}
